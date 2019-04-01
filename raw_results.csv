@@ -1,0 +1,1072 @@
+Year,Round,Region Number,Region Name,SeedA,ScoreA,TeamA,TeamB,ScoreB,SeedB
+2002,1,1,South,1,84,Duke,Winthrop,37,16
+2002,1,1,South,2,86,Alabama,Florida Atlantic,78,15
+2002,1,1,South,3,71,Pittsburgh,Central Connecticut St,54,14
+2002,1,1,South,4,89,USC,UNC Wilmington,93,13
+2002,1,1,South,5,75,Indiana,Utah,56,12
+2002,1,1,South,6,82,California,Pennsylvania,75,11
+2002,1,1,South,7,61,Oklahoma St,Kent St,69,10
+2002,1,1,South,8,82,Notre Dame,Charlotte,63,9
+2002,1,2,West,1,90,Cincinnati,Boston University,52,16
+2002,1,2,West,2,71,Oklahoma,Illinois Chicago,63,15
+2002,1,2,West,3,86,Arizona,Santa Barbara,81,14
+2002,1,2,West,4,69,Ohio St,Davidson,64,13
+2002,1,2,West,5,80,Miami,Missouri,93,12
+2002,1,2,West,6,66,Gonzaga,Wyoming,73,11
+2002,1,2,West,7,70,Xavier,Hawaii,58,10
+2002,1,2,West,8,80,UCLA,Ole Miss,58,9
+2002,1,3,East,1,85,Maryland,Siena,70,16
+2002,1,3,East,2,78,Connecticut,Hampton,67,15
+2002,1,3,East,3,85,Georgia,Murray St,68,14
+2002,1,3,East,4,83,Kentucky,Valparaiso,68,13
+2002,1,3,East,5,69,Marquette,Tulsa,71,12
+2002,1,3,East,6,68,Texas Tech,Southern Illinois,76,11
+2002,1,3,East,7,69,NC State,Michigan St,58,10
+2002,1,3,East,8,80,Wisconsin,St Johns,70,9
+2002,1,4,Midwest,1,70,Kansas,Holy Cross,59,16
+2002,1,4,Midwest,2,81,Oregon,Montana,62,15
+2002,1,4,Midwest,3,70,Mississippi St,McNeese St,58,14
+2002,1,4,Midwest,4,93,Illinois,San Diego St,64,13
+2002,1,4,Midwest,5,82,Florida,Creighton,83,12
+2002,1,4,Midwest,6,70,Texas,Boston College,57,11
+2002,1,4,Midwest,7,83,Wake Forest,Pepperdine,74,10
+2002,1,4,Midwest,8,84,Stanford,Western Kentucky,68,9
+2002,2,1,South,1,84,Duke,Notre Dame,77,8
+2002,2,1,South,2,58,Alabama,Kent St,71,10
+2002,2,1,South,3,63,Pittsburgh,California,50,6
+2002,2,1,South,13,67,UNC Wilmington,Indiana,76,5
+2002,2,2,West,1,101,Cincinnati,UCLA,105,8
+2002,2,2,West,2,78,Oklahoma,Xavier,65,7
+2002,2,2,West,3,68,Arizona,Wyoming,60,11
+2002,2,2,West,4,67,Ohio St,Missouri,83,12
+2002,2,3,East,1,87,Maryland,Wisconsin,57,8
+2002,2,3,East,2,77,Connecticut,NC State,74,7
+2002,2,3,East,3,75,Georgia,Southern Illinois,77,11
+2002,2,3,East,4,87,Kentucky,Tulsa,82,12
+2002,2,4,Midwest,1,86,Kansas,Stanford,63,8
+2002,2,4,Midwest,2,92,Oregon,Wake Forest,87,7
+2002,2,4,Midwest,3,64,Mississippi St,Texas,68,6
+2002,2,4,Midwest,4,72,Illinois,Creighton,60,12
+2002,3,1,South,1,73,Duke,Indiana,74,5
+2002,3,1,South,10,78,Kent St,Pittsburgh,73,3
+2002,3,2,West,8,73,UCLA,Missouri,82,12
+2002,3,2,West,2,88,Oklahoma,Arizona,67,3
+2002,3,3,East,1,78,Maryland,Kentucky,68,4
+2002,3,3,East,2,71,Connecticut,Southern Illinois,59,11
+2002,3,4,Midwest,1,73,Kansas,Illinois,69,4
+2002,3,4,Midwest,2,72,Oregon,Texas,70,6
+2002,4,1,South,5,81,Indiana,Kent St,69,10
+2002,4,2,West,12,75,Missouri,Oklahoma,81,2
+2002,4,3,East,1,90,Maryland,Connecticut,82,2
+2002,4,4,Midwest,1,104,Kansas,Oregon,86,2
+2002,5,1,Final Four,5,73,Indiana,Oklahoma,64,2
+2002,5,2,Final Four,1,97,Maryland,Kansas,88,1
+2002,6,1,Championship,5,52,Indiana,Maryland,64,1
+2003,1,1,Midwest,1,95,Kentucky,IUPUI,64,16
+2003,1,1,Midwest,2,87,Pittsburgh,Wagner,61,15
+2003,1,1,Midwest,3,72,Marquette,Holy Cross,68,14
+2003,1,1,Midwest,4,71,Dayton,Tulsa,84,13
+2003,1,1,Midwest,5,81,Wisconsin,Weber St,74,12
+2003,1,1,Midwest,6,72,Missouri,Southern Illinois,71,11
+2003,1,1,Midwest,7,67,Indiana,Alabama,62,10
+2003,1,1,Midwest,8,58,Oregon,Utah,60,9
+2003,1,2,West,1,80,Arizona,Vermont,51,16
+2003,1,2,West,2,64,Kansas,Utah St,61,15
+2003,1,2,West,3,67,Duke,Colorado St,57,14
+2003,1,2,West,4,65,Illinois,Western Kentucky,60,13
+2003,1,2,West,5,70,Notre Dame,Wisconsin Milwaukee,69,12
+2003,1,2,West,6,73,Creighton,Central Michigan,79,11
+2003,1,2,West,7,71,Memphis,Arizona St,84,10
+2003,1,2,West,8,69,Cincinnati,Gonzaga,74,9
+2003,1,3,South,1,82,Texas,UNC Asheville,61,16
+2003,1,3,South,2,85,Florida,Sam Houston St,55,15
+2003,1,3,South,3,71,Xavier,Troy,59,14
+2003,1,3,South,4,77,Stanford,San Diego,69,13
+2003,1,3,South,5,58,Connecticut,BYU,53,12
+2003,1,3,South,6,75,Maryland,UNC Wilmington,73,11
+2003,1,3,South,7,79,Michigan St,Colorado,64,10
+2003,1,3,South,8,56,LSU,Purdue,80,9
+2003,1,4,East,1,71,Oklahoma,South Carolina St,54,16
+2003,1,4,East,2,76,Wake Forest,East Tennessee St,73,15
+2003,1,4,East,3,76,Syracuse,Manhattan,65,14
+2003,1,4,East,4,86,Louisville,Austin Peay,64,13
+2003,1,4,East,5,46,Mississippi St,Butler,47,12
+2003,1,4,East,6,77,Oklahoma St,Pennsylvania,63,11
+2003,1,4,East,7,63,St Josephs,Auburn,65,10
+2003,1,4,East,8,76,California,NC State,74,9
+2003,2,1,Midwest,1,74,Kentucky,Utah,54,9
+2003,2,1,Midwest,2,74,Pittsburgh,Indiana,52,7
+2003,2,1,Midwest,3,101,Marquette,Missouri,92,6
+2003,2,1,Midwest,13,60,Tulsa,Wisconsin,61,5
+2003,2,2,West,1,96,Arizona,Gonzaga,95,9
+2003,2,2,West,2,108,Kansas,Arizona St,76,10
+2003,2,2,West,3,86,Duke,Central Michigan,60,11
+2003,2,2,West,4,60,Illinois,Notre Dame,68,5
+2003,2,3,South,1,77,Texas,Purdue,67,9
+2003,2,3,South,2,46,Florida,Michigan St,68,7
+2003,2,3,South,3,64,Xavier,Maryland,77,6
+2003,2,3,South,4,74,Stanford,Connecticut,85,5
+2003,2,4,East,1,74,Oklahoma,California,65,8
+2003,2,4,East,2,62,Wake Forest,Auburn,68,10
+2003,2,4,East,3,68,Syracuse,Oklahoma St,56,6
+2003,2,4,East,4,71,Louisville,Butler,79,12
+2003,3,1,Midwest,1,63,Kentucky,Wisconsin,57,5
+2003,3,1,Midwest,2,74,Pittsburgh,Marquette,77,3
+2003,3,2,West,1,88,Arizona,Notre Dame,71,5
+2003,3,2,West,2,69,Kansas,Duke,65,3
+2003,3,3,South,1,82,Texas,Connecticut,78,5
+2003,3,3,South,7,60,Michigan St,Maryland,58,6
+2003,3,4,East,1,65,Oklahoma,Butler,54,12
+2003,3,4,East,10,78,Auburn,Syracuse,79,3
+2003,4,1,Midwest,1,69,Kentucky,Marquette,83,3
+2003,4,2,West,1,75,Arizona,Kansas,78,2
+2003,4,3,South,1,85,Texas,Michigan St,76,7
+2003,4,4,East,1,47,Oklahoma,Syracuse,63,3
+2003,5,1,Final Four,3,61,Marquette,Kansas,94,2
+2003,5,2,Final Four,1,84,Texas,Syracuse,95,3
+2003,6,1,Championship,2,78,Kansas,Syracuse,81,3
+2004,1,1,Midwest,1,96,Kentucky,Florida A&M,76,16
+2004,1,1,Midwest,2,76,Gonzaga,Valparaiso,49,15
+2004,1,1,Midwest,3,65,Georgia Tech,Northern Iowa,60,14
+2004,1,1,Midwest,4,78,Kansas,Illinois Chicago,53,13
+2004,1,1,Midwest,5,58,Providence,Pacific,66,12
+2004,1,1,Midwest,6,58,Boston College,Utah,51,11
+2004,1,1,Midwest,7,66,Michigan St,Nevada,72,10
+2004,1,1,Midwest,8,100,Washington,UAB,102,9
+2004,1,2,East,1,82,St Josephs,Liberty,63,16
+2004,1,2,East,2,75,Oklahoma St,Eastern Washington,56,15
+2004,1,2,East,3,53,Pittsburgh,Central Florida,44,14
+2004,1,2,East,4,79,Wake Forest,VCU,78,13
+2004,1,2,East,5,60,Florida,Manhattan,75,12
+2004,1,2,East,6,76,Wisconsin,Richmond,64,11
+2004,1,2,East,7,59,Memphis,South Carolina,43,10
+2004,1,2,East,8,76,Texas Tech,Charlotte,73,9
+2004,1,3,South,1,96,Duke,Alabama St,61,16
+2004,1,3,South,2,85,Mississippi St,Monmouth,52,15
+2004,1,3,South,3,66,Texas,Princeton,49,14
+2004,1,3,South,4,80,Cincinnati,East Tennessee St,77,13
+2004,1,3,South,5,72,Illinois,Murray St,53,12
+2004,1,3,South,6,63,North Carolina,Air Force,52,11
+2004,1,3,South,7,80,Xavier,Louisville,70,10
+2004,1,3,South,8,80,Seton Hall,Arizona,76,9
+2004,1,4,West,1,71,Stanford,Texas San Antonio,45,16
+2004,1,4,West,2,70,Connecticut,Vermont,53,15
+2004,1,4,West,3,61,NC State,Louisiana Lafayette,52,14
+2004,1,4,West,4,86,Maryland,UTEP,83,13
+2004,1,4,West,5,80,Syracuse,BYU,75,12
+2004,1,4,West,6,71,Vanderbilt,Western Michigan,58,11
+2004,1,4,West,7,76,DePaul,Dayton,69,10
+2004,1,4,West,8,65,Alabama,Southern Illinois,64,9
+2004,2,1,Midwest,1,75,Kentucky,UAB,76,9
+2004,2,1,Midwest,2,72,Gonzaga,Nevada,91,10
+2004,2,1,Midwest,3,57,Georgia Tech,Boston College,54,6
+2004,2,1,Midwest,4,78,Kansas,Pacific,63,12
+2004,2,2,East,1,70,St Josephs,Texas Tech,65,8
+2004,2,2,East,2,70,Oklahoma St,Memphis,53,7
+2004,2,2,East,3,59,Pittsburgh,Wisconsin,55,6
+2004,2,2,East,4,84,Wake Forest,Manhattan,80,12
+2004,2,3,South,1,90,Duke,Seton Hall,62,8
+2004,2,3,South,2,74,Mississippi St,Xavier,89,7
+2004,2,3,South,3,78,Texas,North Carolina,75,6
+2004,2,3,South,4,68,Cincinnati,Illinois,92,5
+2004,2,4,West,1,67,Stanford,Alabama,70,8
+2004,2,4,West,2,72,Connecticut,DePaul,55,7
+2004,2,4,West,3,73,NC State,Vanderbilt,75,6
+2004,2,4,West,4,70,Maryland,Syracuse,72,5
+2004,3,1,Midwest,9,74,UAB,Kansas,100,4
+2004,3,1,Midwest,10,67,Nevada,Georgia Tech,72,3
+2004,3,2,East,1,84,St Josephs,Wake Forest,80,4
+2004,3,2,East,2,63,Oklahoma St,Pittsburgh,51,3
+2004,3,3,South,1,72,Duke,Illinois,62,5
+2004,3,3,South,7,79,Xavier,Texas,71,3
+2004,3,4,West,8,80,Alabama,Syracuse,71,5
+2004,3,4,West,2,73,Connecticut,Vanderbilt,53,6
+2004,4,1,Midwest,4,71,Kansas,Georgia Tech,79,3
+2004,4,2,East,1,62,St Josephs,Oklahoma St,64,2
+2004,4,3,South,1,66,Duke,Xavier,63,7
+2004,4,4,West,8,71,Alabama,Connecticut,87,2
+2004,5,1,Final Four,3,67,Georgia Tech,Oklahoma St,65,2
+2004,5,2,Final Four,1,78,Duke,Connecticut,79,2
+2004,6,1,Championship,3,73,Georgia Tech,Connecticut,82,2
+2005,1,1,Midwest,1,67,Illinois,Fairleigh Dickinson,55,16
+2005,1,1,Midwest,2,63,Oklahoma St,Southeastern Louisiana,50,15
+2005,1,1,Midwest,3,66,Arizona,Utah St,53,14
+2005,1,1,Midwest,4,85,Boston College,Pennsylvania,65,13
+2005,1,1,Midwest,5,73,Alabama,Wisconsin Milwaukee,83,12
+2005,1,1,Midwest,6,68,LSU,UAB,82,11
+2005,1,1,Midwest,7,65,Southern Illinois,St Marys,56,10
+2005,1,1,Midwest,8,57,Texas,Nevada,61,9
+2005,1,2,West,1,88,Washington,Montana,77,16
+2005,1,2,West,2,70,Wake Forest,Chattanooga,54,15
+2005,1,2,West,3,74,Gonzaga,Winthrop,64,14
+2005,1,2,West,4,68,Louisville,Louisiana Lafayette,62,13
+2005,1,2,West,5,80,Georgia Tech,George Washington,68,12
+2005,1,2,West,6,78,Texas Tech,UCLA,66,11
+2005,1,2,West,7,63,West Virginia,Creighton,61,10
+2005,1,2,West,8,79,Pacific,Pittsburgh,71,9
+2005,1,3,East,1,96,North Carolina,Oakland,68,16
+2005,1,3,East,2,77,Connecticut,Central Florida,71,15
+2005,1,3,East,3,63,Kansas,Bucknell,64,14
+2005,1,3,East,4,67,Florida,Ohio,62,13
+2005,1,3,East,5,55,Villanova,New Mexico,47,12
+2005,1,3,East,6,57,Wisconsin,Northern Iowa,52,11
+2005,1,3,East,7,63,Charlotte,NC State,75,10
+2005,1,3,East,8,53,Minnesota,Iowa St,64,9
+2005,1,4,South,1,63,Duke,Delaware St,46,16
+2005,1,4,South,2,72,Kentucky,Eastern Kentucky,64,15
+2005,1,4,South,3,84,Oklahoma,Niagara,67,14
+2005,1,4,South,4,57,Syracuse,Vermont,60,13
+2005,1,4,South,5,89,Michigan St,Old Dominion,81,12
+2005,1,4,South,6,60,Utah,UTEP,54,11
+2005,1,4,South,7,76,Cincinnati,Iowa,64,10
+2005,1,4,South,8,70,Stanford,Mississippi St,93,9
+2005,2,1,Midwest,1,71,Illinois,Nevada,59,9
+2005,2,1,Midwest,2,85,Oklahoma St,Southern Illinois,77,7
+2005,2,1,Midwest,3,85,Arizona,UAB,63,11
+2005,2,1,Midwest,4,75,Boston College,Wisconsin Milwaukee,83,12
+2005,2,2,West,1,97,Washington,Pacific,79,8
+2005,2,2,West,2,105,Wake Forest,West Virginia,111,7
+2005,2,2,West,3,69,Gonzaga,Texas Tech,71,6
+2005,2,2,West,4,76,Louisville,Georgia Tech,54,5
+2005,2,3,East,1,92,North Carolina,Iowa St,65,9
+2005,2,3,East,2,62,Connecticut,NC State,65,10
+2005,2,3,East,14,62,Bucknell,Wisconsin,71,6
+2005,2,3,East,4,65,Florida,Villanova,76,5
+2005,2,4,South,1,63,Duke,Mississippi St,55,9
+2005,2,4,South,2,69,Kentucky,Cincinnati,60,7
+2005,2,4,South,3,58,Oklahoma,Utah,67,6
+2005,2,4,South,13,61,Vermont,Michigan St,72,5
+2005,3,1,Midwest,1,77,Illinois,Wisconsin Milwaukee,63,12
+2005,3,1,Midwest,2,78,Oklahoma St,Arizona,79,3
+2005,3,2,West,1,79,Washington,Louisville,93,4
+2005,3,2,West,7,65,West Virginia,Texas Tech,60,6
+2005,3,3,East,1,67,North Carolina,Villanova,66,5
+2005,3,3,East,10,56,NC State,Wisconsin,65,6
+2005,3,4,South,1,68,Duke,Michigan St,78,5
+2005,3,4,South,2,62,Kentucky,Utah,52,6
+2005,4,1,Midwest,1,90,Illinois,Arizona,89,3
+2005,4,2,West,4,93,Louisville,West Virginia,85,7
+2005,4,3,East,1,88,North Carolina,Wisconsin,82,6
+2005,4,4,South,5,94,Michigan St,Kentucky,88,2
+2005,5,1,Final Four,1,72,Illinois,Louisville,57,4
+2005,5,2,Final Four,1,87,North Carolina,Michigan St,71,5
+2005,6,1,Championship,1,70,Illinois,North Carolina,75,1
+2006,1,1,South,1,70,Duke,Southern,54,16
+2006,1,1,South,2,60,Texas,Pennsylvania,52,15
+2006,1,1,South,3,63,Iowa,Northwestern St,64,14
+2006,1,1,South,4,80,LSU,Iona,64,13
+2006,1,1,South,5,58,Syracuse,Texas A&M,66,12
+2006,1,1,South,6,64,West Virginia,Southern Illinois,46,11
+2006,1,1,South,7,52,California,NC State,58,10
+2006,1,1,South,8,88,George Washington,UNC Wilmington,85,9
+2006,1,2,West,1,94,Memphis,Oral Roberts,78,16
+2006,1,2,West,2,78,UCLA,Belmont,44,15
+2006,1,2,West,3,79,Gonzaga,Xavier,75,14
+2006,1,2,West,4,73,Kansas,Bradley,77,13
+2006,1,2,West,5,79,Pittsburgh,Kent St,64,12
+2006,1,2,West,6,87,Indiana,San Diego St,83,11
+2006,1,2,West,7,85,Marquette,Alabama,90,10
+2006,1,2,West,8,55,Arkansas,Bucknell,59,9
+2006,1,3,East,1,72,Connecticut,Albany,59,16
+2006,1,3,East,2,63,Tennessee,Winthrop,61,15
+2006,1,3,East,3,69,North Carolina,Murray St,65,14
+2006,1,3,East,4,78,Illinois,Air Force,69,13
+2006,1,3,East,5,75,Washington,Utah St,61,12
+2006,1,3,East,6,65,Michigan St,George Mason,75,11
+2006,1,3,East,7,86,Wichita St,Seton Hall,66,10
+2006,1,3,East,8,69,Kentucky,UAB,64,9
+2006,1,4,Midwest,1,58,Villanova,Monmouth,45,16
+2006,1,4,Midwest,2,70,Ohio St,Davidson,62,15
+2006,1,4,Midwest,3,76,Florida,South Alabama,50,14
+2006,1,4,Midwest,4,88,Boston College,Pacific,76,13
+2006,1,4,Midwest,5,79,Nevada,Montana,87,12
+2006,1,4,Midwest,6,74,Oklahoma,Wisconsin Milwaukee,82,11
+2006,1,4,Midwest,7,54,Georgetown,Northern Iowa,49,10
+2006,1,4,Midwest,8,94,Arizona,Wisconsin,75,9
+2006,2,1,South,1,74,Duke,George Washington,61,8
+2006,2,1,South,2,75,Texas,NC State,54,10
+2006,2,1,South,14,54,Northwestern St,West Virginia,67,6
+2006,2,1,South,4,58,LSU,Texas A&M,57,12
+2006,2,2,West,1,72,Memphis,Bucknell,56,9
+2006,2,2,West,2,62,UCLA,Alabama,59,10
+2006,2,2,West,3,90,Gonzaga,Indiana,80,6
+2006,2,2,West,13,72,Bradley,Pittsburgh,66,5
+2006,2,3,East,1,87,Connecticut,Kentucky,83,8
+2006,2,3,East,2,73,Tennessee,Wichita St,80,7
+2006,2,3,East,3,60,North Carolina,George Mason,65,11
+2006,2,3,East,4,64,Illinois,Washington,67,5
+2006,2,4,Midwest,1,82,Villanova,Arizona,78,8
+2006,2,4,Midwest,2,52,Ohio St,Georgetown,70,7
+2006,2,4,Midwest,3,82,Florida,Wisconsin Milwaukee,60,11
+2006,2,4,Midwest,4,69,Boston College,Montana,56,12
+2006,3,1,South,1,54,Duke,LSU,62,4
+2006,3,1,South,2,74,Texas,West Virginia,71,6
+2006,3,2,West,1,80,Memphis,Bradley,64,13
+2006,3,2,West,2,73,UCLA,Gonzaga,71,3
+2006,3,3,East,1,98,Connecticut,Washington,92,5
+2006,3,3,East,7,55,Wichita St,George Mason,63,11
+2006,3,4,Midwest,1,60,Villanova,Boston College,59,4
+2006,3,4,Midwest,7,53,Georgetown,Florida,57,3
+2006,4,1,South,4,70,LSU,Texas,60,2
+2006,4,2,West,1,45,Memphis,UCLA,50,2
+2006,4,3,East,1,84,Connecticut,George Mason,86,11
+2006,4,4,Midwest,1,62,Villanova,Florida,75,3
+2006,5,1,Final Four,4,45,LSU,UCLA,59,2
+2006,5,2,Final Four,11,58,George Mason,Florida,73,3
+2006,6,1,Championship,2,57,UCLA,Florida,73,3
+2007,1,1,Midwest,1,112,Florida,Jackson St,69,16
+2007,1,1,Midwest,2,76,Wisconsin,Texas A&M Corpus Christi,63,15
+2007,1,1,Midwest,3,58,Oregon,Miami Ohio,56,14
+2007,1,1,Midwest,4,82,Maryland,Davidson,70,13
+2007,1,1,Midwest,5,57,Butler,Old Dominion,46,12
+2007,1,1,Midwest,6,64,Notre Dame,Winthrop,74,11
+2007,1,1,Midwest,7,67,UNLV,Georgia Tech,63,10
+2007,1,1,Midwest,8,63,Arizona,Purdue,72,9
+2007,1,2,West,1,107,Kansas,Niagara,67,16
+2007,1,2,West,2,70,UCLA,Weber St,42,15
+2007,1,2,West,3,79,Pittsburgh,Wright St,58,14
+2007,1,2,West,4,61,Southern Illinois,Holy Cross,51,13
+2007,1,2,West,5,54,Virginia Tech,Illinois,52,12
+2007,1,2,West,6,77,Duke,VCU,79,11
+2007,1,2,West,7,70,Indiana,Gonzaga,57,10
+2007,1,2,West,8,67,Kentucky,Villanova,58,9
+2007,1,3,East,1,85,North Carolina,Eastern Kentucky,65,16
+2007,1,3,East,2,80,Georgetown,Belmont,55,15
+2007,1,3,East,3,70,Washington St,Oral Roberts,54,14
+2007,1,3,East,4,79,Texas,New Mexico St,67,13
+2007,1,3,East,5,77,USC,Arkansas,60,12
+2007,1,3,East,6,77,Vanderbilt,George Washington,44,11
+2007,1,3,East,7,84,Boston College,Texas Tech,75,10
+2007,1,3,East,8,49,Marquette,Michigan St,61,9
+2007,1,4,South,1,78,Ohio St,Central Connecticut St,57,16
+2007,1,4,South,2,73,Memphis,North Texas,58,15
+2007,1,4,South,3,68,Texas A&M,Pennsylvania,52,14
+2007,1,4,South,4,84,Virginia,Albany,57,13
+2007,1,4,South,5,121,Tennessee,Long Beach St,86,12
+2007,1,4,South,6,78,Louisville,Stanford,58,11
+2007,1,4,South,7,77,Nevada,Creighton,71,10
+2007,1,4,South,8,77,BYU,Xavier,79,9
+2007,2,1,Midwest,1,74,Florida,Purdue,67,9
+2007,2,1,Midwest,2,68,Wisconsin,UNLV,74,7
+2007,2,1,Midwest,3,75,Oregon,Winthrop,61,11
+2007,2,1,Midwest,4,59,Maryland,Butler,62,5
+2007,2,2,West,1,88,Kansas,Kentucky,76,8
+2007,2,2,West,2,54,UCLA,Indiana,49,7
+2007,2,2,West,3,84,Pittsburgh,VCU,79,11
+2007,2,2,West,4,63,Southern Illinois,Virginia Tech,48,5
+2007,2,3,East,1,81,North Carolina,Michigan St,67,9
+2007,2,3,East,2,62,Georgetown,Boston College,55,7
+2007,2,3,East,3,74,Washington St,Vanderbilt,78,6
+2007,2,3,East,4,68,Texas,USC,87,5
+2007,2,4,South,1,78,Ohio St,Xavier,71,9
+2007,2,4,South,2,78,Memphis,Nevada,62,7
+2007,2,4,South,3,72,Texas A&M,Louisville,69,6
+2007,2,4,South,4,74,Virginia,Tennessee,77,5
+2007,3,1,Midwest,1,65,Florida,Butler,57,5
+2007,3,1,Midwest,7,72,UNLV,Oregon,76,3
+2007,3,2,West,1,61,Kansas,Southern Illinois,58,4
+2007,3,2,West,2,64,UCLA,Pittsburgh,55,3
+2007,3,3,East,1,74,North Carolina,USC,64,5
+2007,3,3,East,2,66,Georgetown,Vanderbilt,65,6
+2007,3,4,South,1,85,Ohio St,Tennessee,84,5
+2007,3,4,South,2,65,Memphis,Texas A&M,64,3
+2007,4,1,Midwest,1,85,Florida,Oregon,77,3
+2007,4,2,West,1,55,Kansas,UCLA,68,2
+2007,4,3,East,1,84,North Carolina,Georgetown,96,2
+2007,4,4,South,1,92,Ohio St,Memphis,76,2
+2007,5,1,Final Four,1,76,Florida,UCLA,66,2
+2007,5,2,Final Four,2,60,Georgetown,Ohio St,67,1
+2007,6,1,Championship,1,84,Florida,Ohio St,75,1
+2008,1,1,East,1,113,North Carolina,Mount St Marys,74,16
+2008,1,1,East,2,72,Tennessee,American,57,15
+2008,1,1,East,3,79,Louisville,Boise St,61,14
+2008,1,1,East,4,71,Washington St,Winthrop,40,13
+2008,1,1,East,5,68,Notre Dame,George Mason,50,12
+2008,1,1,East,6,72,Oklahoma,St Josephs,64,11
+2008,1,1,East,7,81,Butler,South Alabama,61,10
+2008,1,1,East,8,72,Indiana,Arkansas,86,9
+2008,1,2,Midwest,1,85,Kansas,Portland St,61,16
+2008,1,2,Midwest,2,66,Georgetown,UMBC,47,15
+2008,1,2,Midwest,3,71,Wisconsin,Cal St Fullerton,56,14
+2008,1,2,Midwest,4,62,Vanderbilt,Siena,83,13
+2008,1,2,Midwest,5,69,Clemson,Villanova,75,12
+2008,1,2,Midwest,6,67,USC,Kansas St,80,11
+2008,1,2,Midwest,7,76,Gonzaga,Davidson,82,10
+2008,1,2,Midwest,8,71,UNLV,Kent St,58,9
+2008,1,3,South,1,87,Memphis,Texas Arlington,63,16
+2008,1,3,South,2,74,Texas,Austin Peay,54,15
+2008,1,3,South,3,77,Stanford,Cornell,53,14
+2008,1,3,South,4,82,Pittsburgh,Oral Roberts,63,13
+2008,1,3,South,5,72,Michigan St,Temple,61,12
+2008,1,3,South,6,74,Marquette,Kentucky,66,11
+2008,1,3,South,7,78,Miami,St Marys,64,10
+2008,1,3,South,8,76,Mississippi St,Oregon,69,9
+2008,1,4,West,1,70,UCLA,Mississippi Valley St,29,16
+2008,1,4,West,2,71,Duke,Belmont,70,15
+2008,1,4,West,3,73,Xavier,Georgia,61,14
+2008,1,4,West,4,69,Connecticut,San Diego,70,13
+2008,1,4,West,5,99,Drake,Western Kentucky,101,12
+2008,1,4,West,6,90,Purdue,Baylor,79,11
+2008,1,4,West,7,75,West Virginia,Arizona,65,10
+2008,1,4,West,8,62,BYU,Texas A&M,67,9
+2008,2,1,East,1,108,North Carolina,Arkansas,77,9
+2008,2,1,East,2,76,Tennessee,Butler,71,7
+2008,2,1,East,3,78,Louisville,Oklahoma,48,6
+2008,2,1,East,4,61,Washington St,Notre Dame,41,5
+2008,2,2,Midwest,1,75,Kansas,UNLV,56,8
+2008,2,2,Midwest,2,70,Georgetown,Davidson,74,10
+2008,2,2,Midwest,3,72,Wisconsin,Kansas St,55,11
+2008,2,2,Midwest,13,72,Siena,Villanova,84,12
+2008,2,3,South,1,77,Memphis,Mississippi St,74,8
+2008,2,3,South,2,75,Texas,Miami,72,7
+2008,2,3,South,3,82,Stanford,Marquette,81,6
+2008,2,3,South,4,54,Pittsburgh,Michigan St,65,5
+2008,2,4,West,1,51,UCLA,Texas A&M,49,9
+2008,2,4,West,2,67,Duke,West Virginia,73,7
+2008,2,4,West,3,85,Xavier,Purdue,78,6
+2008,2,4,West,13,63,San Diego,Western Kentucky,72,12
+2008,3,1,East,1,68,North Carolina,Washington St,47,4
+2008,3,1,East,2,60,Tennessee,Louisville,79,3
+2008,3,2,Midwest,1,72,Kansas,Villanova,57,12
+2008,3,2,Midwest,10,73,Davidson,Wisconsin,56,3
+2008,3,3,South,1,92,Memphis,Michigan St,74,5
+2008,3,3,South,2,82,Texas,Stanford,62,3
+2008,3,4,West,1,88,UCLA,Western Kentucky,78,12
+2008,3,4,West,7,75,West Virginia,Xavier,79,3
+2008,4,1,East,1,83,North Carolina,Louisville,73,3
+2008,4,2,Midwest,1,59,Kansas,Davidson,57,10
+2008,4,3,South,1,85,Memphis,Texas,67,2
+2008,4,4,West,1,76,UCLA,Xavier,57,3
+2008,5,1,Final Four,1,66,North Carolina,Kansas,84,1
+2008,5,2,Final Four,1,78,Memphis,UCLA,63,1
+2008,6,1,Championship,1,75,Kansas,Memphis,68,1
+2009,1,1,Midwest,1,74,Louisville,Morehead St,54,16
+2009,1,1,Midwest,2,77,Michigan St,Robert Morris,62,15
+2009,1,1,Midwest,3,84,Kansas,North Dakota St,74,14
+2009,1,1,Midwest,4,69,Wake Forest,Cleveland St,84,13
+2009,1,1,Midwest,5,71,Utah,Arizona,84,12
+2009,1,1,Midwest,6,60,West Virginia,Dayton,68,11
+2009,1,1,Midwest,7,55,Boston College,USC,72,10
+2009,1,1,Midwest,8,72,Ohio St,Siena,74,9
+2009,1,2,West,1,103,Connecticut,Chattanooga,47,16
+2009,1,2,West,2,81,Memphis,Cal St Northridge,70,15
+2009,1,2,West,3,78,Missouri,Cornell,59,14
+2009,1,2,West,4,71,Washington,Mississippi St,58,13
+2009,1,2,West,5,61,Purdue,Northern Iowa,56,12
+2009,1,2,West,6,58,Marquette,Utah St,57,11
+2009,1,2,West,7,71,California,Maryland,84,10
+2009,1,2,West,8,66,BYU,Texas A&M,79,9
+2009,1,3,East,1,72,Pittsburgh,East Tennessee St,62,16
+2009,1,3,East,2,85,Duke,Binghamton,62,15
+2009,1,3,East,3,80,Villanova,American,67,14
+2009,1,3,East,4,77,Xavier,Portland St,59,13
+2009,1,3,East,5,59,Florida St,Wisconsin,61,12
+2009,1,3,East,6,65,UCLA,VCU,64,11
+2009,1,3,East,7,76,Texas,Minnesota,62,10
+2009,1,3,East,8,77,Oklahoma St,Tennessee,75,9
+2009,1,4,South,1,101,North Carolina,Radford,58,16
+2009,1,4,South,2,82,Oklahoma,Morgan St,54,15
+2009,1,4,South,3,59,Syracuse,Stephen F Austin,44,14
+2009,1,4,South,4,77,Gonzaga,Akron,64,13
+2009,1,4,South,5,72,Illinois,Western Kentucky,76,12
+2009,1,4,South,6,66,Arizona St,Temple,57,11
+2009,1,4,South,7,59,Clemson,Michigan,62,10
+2009,1,4,South,8,75,LSU,Butler,71,9
+2009,2,1,Midwest,1,79,Louisville,Siena,72,9
+2009,2,1,Midwest,2,74,Michigan St,USC,69,10
+2009,2,1,Midwest,3,60,Kansas,Dayton,43,11
+2009,2,1,Midwest,13,57,Cleveland St,Arizona,71,12
+2009,2,2,West,1,92,Connecticut,Texas A&M,66,9
+2009,2,2,West,2,89,Memphis,Maryland,70,10
+2009,2,2,West,3,83,Missouri,Marquette,79,6
+2009,2,2,West,4,74,Washington,Purdue,76,5
+2009,2,3,East,1,84,Pittsburgh,Oklahoma St,76,8
+2009,2,3,East,2,74,Duke,Texas,69,7
+2009,2,3,East,3,89,Villanova,UCLA,69,6
+2009,2,3,East,4,60,Xavier,Wisconsin,49,12
+2009,2,4,South,1,84,North Carolina,LSU,70,8
+2009,2,4,South,2,73,Oklahoma,Michigan,63,10
+2009,2,4,South,3,78,Syracuse,Arizona St,67,6
+2009,2,4,South,4,83,Gonzaga,Western Kentucky,81,12
+2009,3,1,Midwest,1,103,Louisville,Arizona,64,12
+2009,3,1,Midwest,2,67,Michigan St,Kansas,62,3
+2009,3,2,West,1,72,Connecticut,Purdue,60,5
+2009,3,2,West,2,91,Memphis,Missouri,102,3
+2009,3,3,East,1,60,Pittsburgh,Xavier,55,4
+2009,3,3,East,2,54,Duke,Villanova,77,3
+2009,3,4,South,1,98,North Carolina,Gonzaga,77,4
+2009,3,4,South,2,84,Oklahoma,Syracuse,71,3
+2009,4,1,Midwest,1,52,Louisville,Michigan St,64,2
+2009,4,2,West,1,82,Connecticut,Missouri,75,3
+2009,4,3,East,1,76,Pittsburgh,Villanova,78,3
+2009,4,4,South,1,72,North Carolina,Oklahoma,60,2
+2009,5,1,Final Four,2,82,Michigan St,Connecticut,73,1
+2009,5,2,Final Four,3,69,Villanova,North Carolina,83,1
+2009,6,1,Championship,2,72,Michigan St,North Carolina,89,1
+2010,1,1,Midwest,1,90,Kansas,Lehigh,74,16
+2010,1,1,Midwest,2,68,Ohio St,Santa Barbara,51,15
+2010,1,1,Midwest,3,83,Georgetown,Ohio,97,14
+2010,1,1,Midwest,4,89,Maryland,Houston,77,13
+2010,1,1,Midwest,5,70,Michigan St,New Mexico St,67,12
+2010,1,1,Midwest,6,62,Tennessee,San Diego St,59,11
+2010,1,1,Midwest,7,59,Oklahoma St,Georgia Tech,64,10
+2010,1,1,Midwest,8,66,UNLV,Northern Iowa,69,9
+2010,1,2,West,1,79,Syracuse,Vermont,56,16
+2010,1,2,West,2,82,Kansas St,North Texas,62,15
+2010,1,2,West,3,89,Pittsburgh,Oakland,66,14
+2010,1,2,West,4,65,Vanderbilt,Murray St,66,13
+2010,1,2,West,5,77,Butler,UTEP,59,12
+2010,1,2,West,6,65,Xavier,Minnesota,54,11
+2010,1,2,West,7,99,BYU,Florida,92,10
+2010,1,2,West,8,67,Gonzaga,Florida St,60,9
+2010,1,3,East,1,100,Kentucky,East Tennessee St,71,16
+2010,1,3,East,2,77,West Virginia,Morgan St,50,15
+2010,1,3,East,3,62,New Mexico,Montana,57,14
+2010,1,3,East,4,53,Wisconsin,Wofford,49,13
+2010,1,3,East,5,65,Temple,Cornell,78,12
+2010,1,3,East,6,78,Marquette,Washington,80,11
+2010,1,3,East,7,78,Clemson,Missouri,86,10
+2010,1,3,East,8,80,Texas,Wake Forest,81,9
+2010,1,4,South,1,73,Duke,Arkansas Pine Bluff,44,16
+2010,1,4,South,2,73,Villanova,Robert Morris,70,15
+2010,1,4,South,3,68,Baylor,Sam Houston St,59,14
+2010,1,4,South,4,72,Purdue,Siena,64,13
+2010,1,4,South,5,69,Texas A&M,Utah St,53,12
+2010,1,4,South,6,50,Notre Dame,Old Dominion,51,11
+2010,1,4,South,7,71,Richmond,St Marys,80,10
+2010,1,4,South,8,77,California,Louisville,62,9
+2010,2,1,Midwest,1,67,Kansas,Northern Iowa,69,9
+2010,2,1,Midwest,2,75,Ohio St,Georgia Tech,66,10
+2010,2,1,Midwest,14,68,Ohio,Tennessee,83,6
+2010,2,1,Midwest,4,83,Maryland,Michigan St,85,5
+2010,2,2,West,1,87,Syracuse,Gonzaga,65,8
+2010,2,2,West,2,84,Kansas St,BYU,72,7
+2010,2,2,West,3,68,Pittsburgh,Xavier,71,6
+2010,2,2,West,13,52,Murray St,Butler,54,5
+2010,2,3,East,1,90,Kentucky,Wake Forest,60,9
+2010,2,3,East,2,68,West Virginia,Missouri,59,10
+2010,2,3,East,3,64,New Mexico,Washington,82,11
+2010,2,3,East,4,69,Wisconsin,Cornell,87,12
+2010,2,4,South,1,68,Duke,California,53,8
+2010,2,4,South,2,68,Villanova,St Marys,75,10
+2010,2,4,South,3,76,Baylor,Old Dominion,68,11
+2010,2,4,South,4,63,Purdue,Texas A&M,61,5
+2010,3,1,Midwest,9,52,Northern Iowa,Michigan St,59,5
+2010,3,1,Midwest,2,73,Ohio St,Tennessee,76,6
+2010,3,2,West,1,59,Syracuse,Butler,63,5
+2010,3,2,West,2,101,Kansas St,Xavier,96,6
+2010,3,3,East,1,62,Kentucky,Cornell,45,12
+2010,3,3,East,2,69,West Virginia,Washington,56,11
+2010,3,4,South,1,70,Duke,Purdue,57,4
+2010,3,4,South,10,49,St Marys,Baylor,72,3
+2010,4,1,Midwest,5,70,Michigan St,Tennessee,69,6
+2010,4,2,West,5,63,Butler,Kansas St,56,2
+2010,4,3,East,1,66,Kentucky,West Virginia,73,2
+2010,4,4,South,1,78,Duke,Baylor,71,3
+2010,5,1,Final Four,5,50,Michigan St,Butler,52,5
+2010,5,2,Final Four,2,57,West Virginia,Duke,78,1
+2010,6,1,Championship,5,59,Butler,Duke,61,1
+2011,1,1,East,1,75,Ohio St,Texas San Antonio,46,16
+2011,1,1,East,2,102,North Carolina,Long Island Brooklyn,87,15
+2011,1,1,East,3,77,Syracuse,Indiana St,60,14
+2011,1,1,East,4,59,Kentucky,Princeton,57,13
+2011,1,1,East,5,84,West Virginia,Clemson,78,12
+2011,1,1,East,6,55,Xavier,Marquette,66,11
+2011,1,1,East,7,68,Washington,Georgia,65,10
+2011,1,1,East,8,61,George Mason,Villanova,57,9
+2011,1,2,West,1,87,Duke,Hampton,45,16
+2011,1,2,West,2,68,San Diego St,Northern Colorado,50,15
+2011,1,2,West,3,81,Connecticut,Bucknell,52,14
+2011,1,2,West,4,85,Texas,Oakland,81,13
+2011,1,2,West,5,77,Arizona,Memphis,75,12
+2011,1,2,West,6,78,Cincinnati,Missouri,63,11
+2011,1,2,West,7,66,Temple,Penn St,64,10
+2011,1,2,West,8,75,Michigan,Tennessee,45,9
+2011,1,3,Southwest,1,72,Kansas,Boston University,53,16
+2011,1,3,Southwest,2,69,Notre Dame,Akron,56,15
+2011,1,3,Southwest,3,65,Purdue,St Peters,43,14
+2011,1,3,Southwest,4,61,Louisville,Morehead St,62,13
+2011,1,3,Southwest,5,66,Vanderbilt,Richmond,69,12
+2011,1,3,Southwest,6,56,Georgetown,VCU,74,11
+2011,1,3,Southwest,7,50,Texas A&M,Florida St,57,10
+2011,1,3,Southwest,8,62,UNLV,Illinois,73,9
+2011,1,4,Southeast,1,74,Pittsburgh,UNC Asheville,51,16
+2011,1,4,Southeast,2,79,Florida,Santa Barbara,51,15
+2011,1,4,Southeast,3,74,BYU,Wofford,66,14
+2011,1,4,Southeast,4,72,Wisconsin,Belmont,58,13
+2011,1,4,Southeast,5,73,Kansas St,Utah St,68,12
+2011,1,4,Southeast,6,71,St Johns,Gonzaga,86,11
+2011,1,4,Southeast,7,78,UCLA,Michigan St,76,10
+2011,1,4,Southeast,8,60,Butler,Old Dominion,58,9
+2011,2,1,East,1,98,Ohio St,George Mason,66,8
+2011,2,1,East,2,86,North Carolina,Washington,83,7
+2011,2,1,East,3,62,Syracuse,Marquette,66,11
+2011,2,1,East,4,71,Kentucky,West Virginia,63,5
+2011,2,2,West,1,73,Duke,Michigan,71,8
+2011,2,2,West,2,71,San Diego St,Temple,64,7
+2011,2,2,West,3,69,Connecticut,Cincinnati,58,6
+2011,2,2,West,4,69,Texas,Arizona,70,5
+2011,2,3,Southwest,1,73,Kansas,Illinois,59,9
+2011,2,3,Southwest,2,57,Notre Dame,Florida St,71,10
+2011,2,3,Southwest,3,76,Purdue,VCU,94,11
+2011,2,3,Southwest,13,48,Morehead St,Richmond,65,12
+2011,2,4,Southeast,1,70,Pittsburgh,Butler,71,8
+2011,2,4,Southeast,2,73,Florida,UCLA,65,7
+2011,2,4,Southeast,3,89,BYU,Gonzaga,67,11
+2011,2,4,Southeast,4,70,Wisconsin,Kansas St,65,5
+2011,3,1,East,1,60,Ohio St,Kentucky,62,4
+2011,3,1,East,2,81,North Carolina,Marquette,63,11
+2011,3,2,West,1,77,Duke,Arizona,93,5
+2011,3,2,West,2,67,San Diego St,Connecticut,74,3
+2011,3,3,Southwest,1,77,Kansas,Richmond,57,12
+2011,3,3,Southwest,10,71,Florida St,VCU,72,11
+2011,3,4,Southeast,8,61,Butler,Wisconsin,54,4
+2011,3,4,Southeast,2,83,Florida,BYU,74,3
+2011,4,1,East,4,76,Kentucky,North Carolina,69,2
+2011,4,2,West,5,63,Arizona,Connecticut,65,3
+2011,4,3,Southwest,1,61,Kansas,VCU,71,11
+2011,4,4,Southeast,8,74,Butler,Florida,71,2
+2011,5,1,Final Four,4,55,Kentucky,Connecticut,56,3
+2011,5,2,Final Four,11,62,VCU,Butler,70,8
+2011,6,1,Championship,3,53,Connecticut,Butler,41,8
+2012,1,1,South,1,81,Kentucky,Western Kentucky,66,16
+2012,1,1,South,2,70,Duke,Lehigh,75,15
+2012,1,1,South,3,68,Baylor,South Dakota St,60,14
+2012,1,1,South,4,79,Indiana,New Mexico St,66,13
+2012,1,1,South,5,59,Wichita St,VCU,62,12
+2012,1,1,South,6,64,UNLV,Colorado,68,11
+2012,1,1,South,7,63,Notre Dame,Xavier,67,10
+2012,1,1,South,8,77,Iowa St,Connecticut,64,9
+2012,1,2,West,1,89,Michigan St,Long Island Brooklyn,67,16
+2012,1,2,West,2,84,Missouri,Norfolk St,86,15
+2012,1,2,West,3,88,Marquette,BYU,68,14
+2012,1,2,West,4,69,Louisville,Davidson,62,13
+2012,1,2,West,5,75,New Mexico,Long Beach St,68,12
+2012,1,2,West,6,58,Murray St,Colorado St,41,11
+2012,1,2,West,7,71,Florida,Virginia,45,10
+2012,1,2,West,8,54,Memphis,St Louis,61,9
+2012,1,3,East,1,72,Syracuse,UNC Asheville,65,16
+2012,1,3,East,2,78,Ohio St,Loyola Maryland,59,15
+2012,1,3,East,3,86,Florida St,St Bonaventure,63,14
+2012,1,3,East,4,73,Wisconsin,Montana,49,13
+2012,1,3,East,5,79,Vanderbilt,Harvard,70,12
+2012,1,3,East,6,65,Cincinnati,Texas,59,11
+2012,1,3,East,7,77,Gonzaga,West Virginia,54,10
+2012,1,3,East,8,70,Kansas St,Southern Mississippi,64,9
+2012,1,4,Midwest,1,77,North Carolina,Vermont,58,16
+2012,1,4,Midwest,2,65,Kansas,Detroit,50,15
+2012,1,4,Midwest,3,74,Georgetown,Belmont,59,14
+2012,1,4,Midwest,4,60,Michigan,Ohio,65,13
+2012,1,4,Midwest,5,44,Temple,South Florida,58,12
+2012,1,4,Midwest,6,65,San Diego St,NC State,79,11
+2012,1,4,Midwest,7,69,St Marys,Purdue,72,10
+2012,1,4,Midwest,8,58,Creighton,Alabama,57,9
+2012,2,1,South,1,87,Kentucky,Iowa St,71,8
+2012,2,1,South,15,58,Lehigh,Xavier,70,10
+2012,2,1,South,3,80,Baylor,Colorado,63,11
+2012,2,1,South,4,63,Indiana,VCU,61,12
+2012,2,2,West,1,65,Michigan St,St Louis,61,9
+2012,2,2,West,15,50,Norfolk St,Florida,84,7
+2012,2,2,West,3,62,Marquette,Murray St,53,6
+2012,2,2,West,4,59,Louisville,New Mexico,58,5
+2012,2,3,East,1,75,Syracuse,Kansas St,59,8
+2012,2,3,East,2,73,Ohio St,Gonzaga,66,7
+2012,2,3,East,3,56,Florida St,Cincinnati,62,6
+2012,2,3,East,4,60,Wisconsin,Vanderbilt,57,5
+2012,2,4,Midwest,1,87,North Carolina,Creighton,73,8
+2012,2,4,Midwest,2,63,Kansas,Purdue,60,10
+2012,2,4,Midwest,3,63,Georgetown,NC State,88,11
+2012,2,4,Midwest,13,62,Ohio,South Florida,56,12
+2012,3,1,South,1,102,Kentucky,Indiana,90,4
+2012,3,1,South,10,70,Xavier,Baylor,75,3
+2012,3,2,West,1,44,Michigan St,Louisville,57,4
+2012,3,2,West,7,68,Florida,Marquette,58,3
+2012,3,3,East,1,84,Syracuse,Wisconsin,83,4
+2012,3,3,East,2,81,Ohio St,Cincinnati,66,6
+2012,3,4,Midwest,1,73,North Carolina,Ohio,65,13
+2012,3,4,Midwest,2,60,Kansas,NC State,57,11
+2012,4,1,South,1,82,Kentucky,Baylor,70,3
+2012,4,2,West,4,72,Louisville,Florida,68,7
+2012,4,3,East,1,70,Syracuse,Ohio St,77,2
+2012,4,4,Midwest,1,67,North Carolina,Kansas,80,2
+2012,5,1,Final Four,1,69,Kentucky,Louisville,61,4
+2012,5,2,Final Four,2,62,Ohio St,Kansas,64,2
+2012,6,1,Championship,1,67,Kentucky,Kansas,59,2
+2013,1,1,Midwest,1,79,Louisville,North Carolina A&T,48,16
+2013,1,1,Midwest,2,73,Duke,Albany,61,15
+2013,1,1,Midwest,3,65,Michigan St,Valparaiso,54,14
+2013,1,1,Midwest,4,64,St Louis,New Mexico St,44,13
+2013,1,1,Midwest,5,55,Oklahoma St,Oregon,68,12
+2013,1,1,Midwest,6,54,Memphis,St Marys,52,11
+2013,1,1,Midwest,7,67,Creighton,Cincinnati,63,10
+2013,1,1,Midwest,8,84,Colorado St,Missouri,72,9
+2013,1,2,West,1,64,Gonzaga,Southern,58,16
+2013,1,2,West,2,95,Ohio St,Iona,70,15
+2013,1,2,West,3,62,New Mexico,Harvard,68,14
+2013,1,2,West,4,61,Kansas St,La Salle,63,13
+2013,1,2,West,5,46,Wisconsin,Ole Miss,57,12
+2013,1,2,West,6,81,Arizona,Belmont,64,11
+2013,1,2,West,7,58,Notre Dame,Iowa St,76,10
+2013,1,2,West,8,55,Pittsburgh,Wichita St,73,9
+2013,1,3,South,1,64,Kansas,Western Kentucky,57,16
+2013,1,3,South,2,68,Georgetown,Florida Gulf Coast,78,15
+2013,1,3,South,3,79,Florida,Northwestern St,47,14
+2013,1,3,South,4,71,Michigan,South Dakota St,56,13
+2013,1,3,South,5,88,VCU,Akron,42,12
+2013,1,3,South,6,63,UCLA,Minnesota,83,11
+2013,1,3,South,7,70,San Diego St,Oklahoma,55,10
+2013,1,3,South,8,78,North Carolina,Villanova,71,9
+2013,1,4,East,1,83,Indiana,James Madison,62,16
+2013,1,4,East,2,78,Miami,Pacific,49,15
+2013,1,4,East,3,59,Marquette,Davidson,58,14
+2013,1,4,East,4,81,Syracuse,Montana,34,13
+2013,1,4,East,5,61,UNLV,California,64,12
+2013,1,4,East,6,68,Butler,Bucknell,56,11
+2013,1,4,East,7,57,Illinois,Colorado,49,10
+2013,1,4,East,8,72,NC State,Temple,76,9
+2013,2,1,Midwest,1,82,Louisville,Colorado St,56,8
+2013,2,1,Midwest,2,66,Duke,Creighton,50,7
+2013,2,1,Midwest,3,70,Michigan St,Memphis,48,6
+2013,2,1,Midwest,4,57,St Louis,Oregon,74,12
+2013,2,2,West,1,70,Gonzaga,Wichita St,76,9
+2013,2,2,West,2,78,Ohio St,Iowa St,75,10
+2013,2,2,West,14,51,Harvard,Arizona,74,6
+2013,2,2,West,13,76,La Salle,Ole Miss,74,12
+2013,2,3,South,1,70,Kansas,North Carolina,58,8
+2013,2,3,South,15,81,Florida Gulf Coast,San Diego St,71,7
+2013,2,3,South,3,78,Florida,Minnesota,64,11
+2013,2,3,South,4,78,Michigan,VCU,53,5
+2013,2,4,East,1,58,Indiana,Temple,52,9
+2013,2,4,East,2,63,Miami,Illinois,59,7
+2013,2,4,East,3,74,Marquette,Butler,72,6
+2013,2,4,East,4,66,Syracuse,California,60,12
+2013,3,1,Midwest,1,77,Louisville,Oregon,69,12
+2013,3,1,Midwest,2,71,Duke,Michigan St,61,3
+2013,3,2,West,9,72,Wichita St,La Salle,58,13
+2013,3,2,West,2,73,Ohio St,Arizona,70,6
+2013,3,3,South,1,85,Kansas,Michigan,87,4
+2013,3,3,South,15,50,Florida Gulf Coast,Florida,62,3
+2013,3,4,East,1,50,Indiana,Syracuse,61,4
+2013,3,4,East,2,61,Miami,Marquette,71,3
+2013,4,1,Midwest,1,85,Louisville,Duke,63,2
+2013,4,2,West,9,70,Wichita St,Ohio St,66,2
+2013,4,3,South,4,79,Michigan,Florida,59,3
+2013,4,4,East,4,55,Syracuse,Marquette,39,3
+2013,5,1,Final Four,1,72,Louisville,Wichita St,68,9
+2013,5,2,Final Four,4,61,Michigan,Syracuse,56,4
+2013,6,1,Championship,1,82,Louisville,Michigan,76,4
+2014,1,1,South,1,67,Florida,Albany,55,16
+2014,1,1,South,2,80,Kansas,Eastern Kentucky,69,15
+2014,1,1,South,3,77,Syracuse,Western Michigan,53,14
+2014,1,1,South,4,76,UCLA,Tulsa,59,13
+2014,1,1,South,5,75,VCU,Stephen F Austin,77,12
+2014,1,1,South,6,59,Ohio St,Dayton,60,11
+2014,1,1,South,7,53,New Mexico,Stanford,58,10
+2014,1,1,South,8,48,Colorado,Pittsburgh,77,9
+2014,1,2,East,1,70,Virginia,Coastal Carolina,59,16
+2014,1,2,East,2,73,Villanova,Wisconsin Milwaukee,53,15
+2014,1,2,East,3,93,Iowa St,North Carolina Central,75,14
+2014,1,2,East,4,93,Michigan St,Delaware,78,13
+2014,1,2,East,5,57,Cincinnati,Harvard,61,12
+2014,1,2,East,6,79,North Carolina,Providence,77,11
+2014,1,2,East,7,89,Connecticut,St Josephs,81,10
+2014,1,2,East,8,71,Memphis,George Washington,66,9
+2014,1,3,West,1,88,Arizona,Weber St,59,16
+2014,1,3,West,2,75,Wisconsin,American,35,15
+2014,1,3,West,3,76,Creighton,Louisiana Lafayette,66,14
+2014,1,3,West,4,73,San Diego St,New Mexico St,69,13
+2014,1,3,West,5,75,Oklahoma,North Dakota St,80,12
+2014,1,3,West,6,74,Baylor,Nebraska,60,11
+2014,1,3,West,7,87,Oregon,BYU,68,10
+2014,1,3,West,8,85,Gonzaga,Oklahoma St,77,9
+2014,1,4,Midwest,1,64,Wichita St,Cal Poly,37,16
+2014,1,4,Midwest,2,57,Michigan,Wofford,40,15
+2014,1,4,Midwest,3,71,Duke,Mercer,78,14
+2014,1,4,Midwest,4,71,Louisville,Manhattan,64,13
+2014,1,4,Midwest,5,83,St Louis,NC State,80,12
+2014,1,4,Midwest,6,67,Massachusetts,Tennessee,86,11
+2014,1,4,Midwest,7,87,Texas,Arizona St,85,10
+2014,1,4,Midwest,8,56,Kentucky,Kansas St,49,9
+2014,2,1,South,1,61,Florida,Pittsburgh,45,9
+2014,2,1,South,2,57,Kansas,Stanford,60,10
+2014,2,1,South,3,53,Syracuse,Dayton,55,11
+2014,2,1,South,4,77,UCLA,Stephen F Austin,60,12
+2014,2,2,East,1,78,Virginia,Memphis,60,8
+2014,2,2,East,2,65,Villanova,Connecticut,77,7
+2014,2,2,East,3,85,Iowa St,North Carolina,83,6
+2014,2,2,East,4,80,Michigan St,Harvard,73,12
+2014,2,3,West,1,84,Arizona,Gonzaga,81,8
+2014,2,3,West,2,85,Wisconsin,Oregon,77,7
+2014,2,3,West,3,55,Creighton,Baylor,85,6
+2014,2,3,West,4,63,San Diego St,North Dakota St,44,12
+2014,2,4,Midwest,1,76,Wichita St,Kentucky,78,8
+2014,2,4,Midwest,2,79,Michigan,Texas,65,7
+2014,2,4,Midwest,14,63,Mercer,Tennessee,83,11
+2014,2,4,Midwest,4,66,Louisville,St Louis,51,5
+2014,3,1,South,1,79,Florida,UCLA,68,4
+2014,3,1,South,10,72,Stanford,Dayton,82,11
+2014,3,2,East,1,59,Virginia,Michigan St,61,4
+2014,3,2,East,7,81,Connecticut,Iowa St,76,3
+2014,3,3,West,1,70,Arizona,San Diego St,64,4
+2014,3,3,West,2,69,Wisconsin,Baylor,52,6
+2014,3,4,Midwest,8,74,Kentucky,Louisville,69,4
+2014,3,4,Midwest,2,73,Michigan,Tennessee,71,11
+2014,4,1,South,1,62,Florida,Dayton,52,11
+2014,4,2,East,4,54,Michigan St,Connecticut,60,7
+2014,4,3,West,1,63,Arizona,Wisconsin,64,2
+2014,4,4,Midwest,8,75,Kentucky,Michigan,72,2
+2014,5,1,Final Four,1,53,Florida,Connecticut,63,7
+2014,5,2,Final Four,2,73,Wisconsin,Kentucky,74,8
+2014,6,1,Championship,7,60,Connecticut,Kentucky,54,8
+2015,1,1,Midwest,1,79,Kentucky,Hampton,56,16
+2015,1,1,Midwest,2,75,Kansas,New Mexico St,56,15
+2015,1,1,Midwest,3,69,Notre Dame,Northeastern,65,14
+2015,1,1,Midwest,4,65,Maryland,Valparaiso,62,13
+2015,1,1,Midwest,5,68,West Virginia,Buffalo,62,12
+2015,1,1,Midwest,6,56,Butler,Texas,48,11
+2015,1,1,Midwest,7,81,Wichita St,Indiana,76,10
+2015,1,1,Midwest,8,66,Cincinnati,Purdue,65,9
+2015,1,2,West,1,86,Wisconsin,Coastal Carolina,72,16
+2015,1,2,West,2,93,Arizona,Texas Southern,72,15
+2015,1,2,West,3,56,Baylor,Georgia St,57,14
+2015,1,2,West,4,67,North Carolina,Harvard,65,13
+2015,1,2,West,5,56,Arkansas,Wofford,53,12
+2015,1,2,West,6,76,Xavier,Ole Miss,57,11
+2015,1,2,West,7,72,VCU,Ohio St,75,10
+2015,1,2,West,8,79,Oregon,Oklahoma St,73,9
+2015,1,3,East,1,93,Villanova,Lafayette,52,16
+2015,1,3,East,2,79,Virginia,Belmont,67,15
+2015,1,3,East,3,69,Oklahoma,Albany,60,14
+2015,1,3,East,4,57,Louisville,Cal Irvine,55,13
+2015,1,3,East,5,71,Northern Iowa,Wyoming,54,12
+2015,1,3,East,6,53,Providence,Dayton,66,11
+2015,1,3,East,7,70,Michigan St,Georgia,63,10
+2015,1,3,East,8,66,NC State,LSU,65,9
+2015,1,4,South,1,85,Duke,Robert Morris,56,16
+2015,1,4,South,2,86,Gonzaga,North Dakota St,76,15
+2015,1,4,South,3,59,Iowa St,UAB,60,14
+2015,1,4,South,4,84,Georgetown,Eastern Washington,74,13
+2015,1,4,South,5,57,Utah,Stephen F Austin,50,12
+2015,1,4,South,6,59,SMU,UCLA,60,11
+2015,1,4,South,7,83,Iowa,Davidson,52,10
+2015,1,4,South,8,76,San Diego St,St Johns,64,9
+2015,2,1,Midwest,1,64,Kentucky,Cincinnati,51,8
+2015,2,1,Midwest,2,65,Kansas,Wichita St,78,7
+2015,2,1,Midwest,3,67,Notre Dame,Butler,64,6
+2015,2,1,Midwest,4,59,Maryland,West Virginia,69,5
+2015,2,2,West,1,72,Wisconsin,Oregon,65,8
+2015,2,2,West,2,73,Arizona,Ohio St,58,10
+2015,2,2,West,14,67,Georgia St,Xavier,75,6
+2015,2,2,West,4,87,North Carolina,Arkansas,78,5
+2015,2,3,East,1,68,Villanova,NC State,71,8
+2015,2,3,East,2,54,Virginia,Michigan St,60,7
+2015,2,3,East,3,72,Oklahoma,Dayton,66,11
+2015,2,3,East,4,66,Louisville,Northern Iowa,53,5
+2015,2,4,South,1,68,Duke,San Diego St,49,8
+2015,2,4,South,2,87,Gonzaga,Iowa,68,7
+2015,2,4,South,14,75,UAB,UCLA,92,11
+2015,2,4,South,4,64,Georgetown,Utah,75,5
+2015,3,1,Midwest,1,78,Kentucky,West Virginia,39,5
+2015,3,1,Midwest,7,70,Wichita St,Notre Dame,81,3
+2015,3,2,West,1,79,Wisconsin,North Carolina,72,4
+2015,3,2,West,2,68,Arizona,Xavier,60,6
+2015,3,3,East,8,65,NC State,Louisville,75,4
+2015,3,3,East,7,62,Michigan St,Oklahoma,58,3
+2015,3,4,South,1,63,Duke,Utah,57,5
+2015,3,4,South,2,74,Gonzaga,UCLA,62,11
+2015,4,1,Midwest,1,68,Kentucky,Notre Dame,66,3
+2015,4,2,West,1,85,Wisconsin,Arizona,78,2
+2015,4,3,East,4,70,Louisville,Michigan St,76,7
+2015,4,4,South,1,66,Duke,Gonzaga,52,2
+2015,5,1,Final Four,1,64,Kentucky,Wisconsin,71,1
+2015,5,2,Final Four,7,61,Michigan St,Duke,81,1
+2015,6,1,Championship,1,63,Wisconsin,Duke,68,1
+2016,1,1,South,1,105,Kansas,Austin Peay,79,16
+2016,1,1,South,2,86,Villanova,UNC Asheville,56,15
+2016,1,1,South,3,79,Miami,Buffalo,72,14
+2016,1,1,South,4,66,California,Hawaii,77,13
+2016,1,1,South,5,79,Maryland,South Dakota St,74,12
+2016,1,1,South,6,55,Arizona,Wichita St,65,11
+2016,1,1,South,7,72,Iowa,Temple,70,10
+2016,1,1,South,8,67,Colorado,Connecticut,74,9
+2016,1,2,West,1,91,Oregon,Holy Cross,52,16
+2016,1,2,West,2,82,Oklahoma,Cal St Bakersfield,68,15
+2016,1,2,West,3,92,Texas A&M,Wisconsin Green Bay,65,14
+2016,1,2,West,4,93,Duke,UNC Wilmington,85,13
+2016,1,2,West,5,75,Baylor,Yale,79,12
+2016,1,2,West,6,72,Texas,Northern Iowa,75,11
+2016,1,2,West,7,67,Oregon St,VCU,75,10
+2016,1,2,West,8,78,St Josephs,Cincinnati,76,9
+2016,1,3,East,1,83,North Carolina,Florida Gulf Coast,67,16
+2016,1,3,East,2,71,Xavier,Weber St,53,15
+2016,1,3,East,3,56,West Virginia,Stephen F Austin,70,14
+2016,1,3,East,4,85,Kentucky,Stony Brook,57,13
+2016,1,3,East,5,99,Indiana,Chattanooga,74,12
+2016,1,3,East,6,70,Notre Dame,Michigan,63,11
+2016,1,3,East,7,47,Wisconsin,Pittsburgh,43,10
+2016,1,3,East,8,69,USC,Providence,70,9
+2016,1,4,Midwest,1,81,Virginia,Hampton,45,16
+2016,1,4,Midwest,2,81,Michigan St,Middle Tennessee St,90,15
+2016,1,4,Midwest,3,80,Utah,Fresno St,69,14
+2016,1,4,Midwest,4,94,Iowa St,Iona,81,13
+2016,1,4,Midwest,5,83,Purdue,Arkansas Little Rock,85,12
+2016,1,4,Midwest,6,52,Seton Hall,Gonzaga,68,11
+2016,1,4,Midwest,7,51,Dayton,Syracuse,70,10
+2016,1,4,Midwest,8,61,Texas Tech,Butler,71,9
+2016,2,1,South,1,73,Kansas,Connecticut,61,9
+2016,2,1,South,2,87,Villanova,Iowa,68,7
+2016,2,1,South,3,65,Miami,Wichita St,57,11
+2016,2,1,South,13,60,Hawaii,Maryland,73,5
+2016,2,2,West,1,69,Oregon,St Josephs,64,8
+2016,2,2,West,2,85,Oklahoma,VCU,81,10
+2016,2,2,West,3,92,Texas A&M,Northern Iowa,88,11
+2016,2,2,West,4,71,Duke,Yale,64,12
+2016,2,3,East,1,85,North Carolina,Providence,66,9
+2016,2,3,East,2,63,Xavier,Wisconsin,66,7
+2016,2,3,East,14,75,Stephen F Austin,Notre Dame,76,6
+2016,2,3,East,4,67,Kentucky,Indiana,73,5
+2016,2,4,Midwest,1,77,Virginia,Butler,69,9
+2016,2,4,Midwest,15,50,Middle Tennessee St,Syracuse,75,10
+2016,2,4,Midwest,3,59,Utah,Gonzaga,82,11
+2016,2,4,Midwest,4,78,Iowa St,Arkansas Little Rock,61,12
+2016,3,1,South,1,79,Kansas,Maryland,63,5
+2016,3,1,South,2,92,Villanova,Miami,69,3
+2016,3,2,West,1,82,Oregon,Duke,68,4
+2016,3,2,West,2,77,Oklahoma,Texas A&M,63,3
+2016,3,3,East,1,101,North Carolina,Indiana,86,5
+2016,3,3,East,7,56,Wisconsin,Notre Dame,61,6
+2016,3,4,Midwest,1,84,Virginia,Iowa St,71,4
+2016,3,4,Midwest,10,63,Syracuse,Gonzaga,60,11
+2016,4,1,South,1,59,Kansas,Villanova,64,2
+2016,4,2,West,1,68,Oregon,Oklahoma,80,2
+2016,4,3,East,1,88,North Carolina,Notre Dame,74,6
+2016,4,4,Midwest,1,62,Virginia,Syracuse,68,10
+2016,5,1,Final Four,2,95,Villanova,Oklahoma,51,2
+2016,5,2,Final Four,1,83,North Carolina,Syracuse,66,10
+2016,6,1,Championship,2,77,Villanova,North Carolina,74,1
+2017,1,1,East,1,76,Villanova,Mount St Marys,56,16
+2017,1,1,East,2,87,Duke,Troy,65,15
+2017,1,1,East,3,91,Baylor,New Mexico St,73,14
+2017,1,1,East,4,80,Florida,East Tennessee St,65,13
+2017,1,1,East,5,76,Virginia,UNC Wilmington,71,12
+2017,1,1,East,6,65,SMU,USC,66,11
+2017,1,1,East,7,93,South Carolina,Marquette,73,10
+2017,1,1,East,8,84,Wisconsin,Virginia Tech,74,9
+2017,1,2,West,1,66,Gonzaga,South Dakota St,46,16
+2017,1,2,West,2,100,Arizona,North Dakota,82,15
+2017,1,2,West,3,86,Florida St,Florida Gulf Coast,80,14
+2017,1,2,West,4,86,West Virginia,Bucknell,80,13
+2017,1,2,West,5,60,Notre Dame,Princeton,58,12
+2017,1,2,West,6,65,Maryland,Xavier,76,11
+2017,1,2,West,7,85,St Marys,VCU,77,10
+2017,1,2,West,8,68,Northwestern,Vanderbilt,66,9
+2017,1,3,Midwest,1,100,Kansas,UC Davis,62,16
+2017,1,3,Midwest,2,78,Louisville,Jacksonville St,63,15
+2017,1,3,Midwest,3,93,Oregon,Iona,77,14
+2017,1,3,Midwest,4,80,Purdue,Vermont,70,13
+2017,1,3,Midwest,5,84,Iowa St,Nevada,73,12
+2017,1,3,Midwest,6,72,Creighton,Rhode Island,84,11
+2017,1,3,Midwest,7,92,Michigan,Oklahoma St,91,10
+2017,1,3,Midwest,8,58,Miami,Michigan St,78,9
+2017,1,4,South,1,103,North Carolina,Texas Southern,64,16
+2017,1,4,South,2,79,Kentucky,Northern Kentucky,70,15
+2017,1,4,South,3,97,UCLA,Kent St,80,14
+2017,1,4,South,4,76,Butler,Winthrop,64,13
+2017,1,4,South,5,72,Minnesota,Middle Tennessee St,81,12
+2017,1,4,South,6,75,Cincinnati,Kansas St,61,11
+2017,1,4,South,7,58,Dayton,Wichita St,64,10
+2017,1,4,South,8,77,Arkansas,Seton Hall,71,9
+2017,2,1,East,1,62,Villanova,Wisconsin,65,8
+2017,2,1,East,2,81,Duke,South Carolina,88,7
+2017,2,1,East,3,82,Baylor,USC,78,11
+2017,2,1,East,4,65,Florida,Virginia,39,5
+2017,2,2,West,1,79,Gonzaga,Northwestern,73,8
+2017,2,2,West,2,69,Arizona,St Marys,60,7
+2017,2,2,West,3,66,Florida St,Xavier,91,11
+2017,2,2,West,4,83,West Virginia,Notre Dame,71,5
+2017,2,3,Midwest,1,90,Kansas,Michigan St,70,9
+2017,2,3,Midwest,2,69,Louisville,Michigan,73,7
+2017,2,3,Midwest,3,75,Oregon,Rhode Island,72,11
+2017,2,3,Midwest,4,80,Purdue,Iowa St,76,5
+2017,2,4,South,1,72,North Carolina,Arkansas,65,8
+2017,2,4,South,2,65,Kentucky,Wichita St,62,10
+2017,2,4,South,3,79,UCLA,Cincinnati,67,6
+2017,2,4,South,4,74,Butler,Middle Tennessee St,65,12
+2017,3,1,East,8,83,Wisconsin,Florida,84,4
+2017,3,1,East,7,70,South Carolina,Baylor,50,3
+2017,3,2,West,1,61,Gonzaga,West Virginia,58,4
+2017,3,2,West,2,71,Arizona,Xavier,73,11
+2017,3,3,Midwest,1,98,Kansas,Purdue,66,4
+2017,3,3,Midwest,7,68,Michigan,Oregon,69,3
+2017,3,4,South,1,92,North Carolina,Butler,80,4
+2017,3,4,South,2,86,Kentucky,UCLA,75,3
+2017,4,1,East,4,70,Florida,South Carolina,77,7
+2017,4,2,West,1,83,Gonzaga,Xavier,59,11
+2017,4,3,Midwest,1,60,Kansas,Oregon,74,3
+2017,4,4,South,1,75,North Carolina,Kentucky,73,2
+2017,5,1,Final Four,7,73,South Carolina,Gonzaga,77,1
+2017,5,2,Final Four,3,76,Oregon,North Carolina,77,1
+2017,6,1,Championship,1,65,Gonzaga,North Carolina,71,1
+2018,1,1,South,1,54,Virginia,UMBC,74,16
+2018,1,1,South,2,68,Cincinnati,Georgia St,53,15
+2018,1,1,South,3,73,Tennessee,Wright St,47,14
+2018,1,1,South,4,68,Arizona,Buffalo,89,13
+2018,1,1,South,5,78,Kentucky,Davidson,73,12
+2018,1,1,South,6,62,Miami,Loyola Chicago,64,11
+2018,1,1,South,7,87,Nevada,Texas,83,10
+2018,1,1,South,8,59,Creighton,Kansas St,69,9
+2018,1,2,West,1,102,Xavier,Texas Southern,83,16
+2018,1,2,West,2,84,North Carolina,Lipscomb,66,15
+2018,1,2,West,3,61,Michigan,Montana,47,14
+2018,1,2,West,4,68,Gonzaga,UNC Greensboro,64,13
+2018,1,2,West,5,81,Ohio St,South Dakota St,73,12
+2018,1,2,West,6,67,Houston,San Diego St,65,11
+2018,1,2,West,7,73,Texas A&M,Providence,69,10
+2018,1,2,West,8,54,Missouri,Florida St,67,9
+2018,1,3,East,1,87,Villanova,Radford,61,16
+2018,1,3,East,2,74,Purdue,Cal St Fullerton,48,15
+2018,1,3,East,3,70,Texas Tech,Stephen F Austin,60,14
+2018,1,3,East,4,75,Wichita St,Marshall,81,13
+2018,1,3,East,5,85,West Virginia,Murray St,68,12
+2018,1,3,East,6,77,Florida,St Bonaventure,62,11
+2018,1,3,East,7,62,Arkansas,Butler,79,10
+2018,1,3,East,8,83,Virginia Tech,Alabama,86,9
+2018,1,4,Midwest,1,76,Kansas,Pennsylvania,60,16
+2018,1,4,Midwest,2,89,Duke,Iona,67,15
+2018,1,4,Midwest,3,82,Michigan St,Bucknell,78,14
+2018,1,4,Midwest,4,62,Auburn,College of Charleston,58,13
+2018,1,4,Midwest,5,79,Clemson,New Mexico St,68,12
+2018,1,4,Midwest,6,52,TCU,Syracuse,57,11
+2018,1,4,Midwest,7,83,Rhode Island,Oklahoma,78,10
+2018,1,4,Midwest,8,94,Seton Hall,NC State,83,9
+2018,2,1,South,16,43,UMBC,Kansas St,50,9
+2018,2,1,South,2,73,Cincinnati,Nevada,75,7
+2018,2,1,South,3,62,Tennessee,Loyola Chicago,63,11
+2018,2,1,South,13,75,Buffalo,Kentucky,95,5
+2018,2,2,West,1,70,Xavier,Florida St,75,9
+2018,2,2,West,2,65,North Carolina,Texas A&M,86,7
+2018,2,2,West,3,64,Michigan,Houston,63,6
+2018,2,2,West,4,90,Gonzaga,Ohio St,84,5
+2018,2,3,East,1,81,Villanova,Alabama,58,9
+2018,2,3,East,2,76,Purdue,Butler,73,10
+2018,2,3,East,3,69,Texas Tech,Florida,66,6
+2018,2,3,East,13,71,Marshall,West Virginia,94,5
+2018,2,4,Midwest,1,83,Kansas,Seton Hall,79,8
+2018,2,4,Midwest,2,87,Duke,Rhode Island,62,7
+2018,2,4,Midwest,3,53,Michigan St,Syracuse,55,11
+2018,2,4,Midwest,4,53,Auburn,Clemson,84,5
+2018,3,1,South,9,61,Kansas St,Kentucky,58,5
+2018,3,1,South,7,68,Nevada,Loyola Chicago,69,11
+2018,3,2,West,9,75,Florida St,Gonzaga,60,4
+2018,3,2,West,7,72,Texas A&M,Michigan,99,3
+2018,3,3,East,1,90,Villanova,West Virginia,78,5
+2018,3,3,East,2,65,Purdue,Texas Tech,78,3
+2018,3,4,Midwest,1,80,Kansas,Clemson,76,5
+2018,3,4,Midwest,2,69,Duke,Syracuse,65,11
+2018,4,1,South,9,62,Kansas St,Loyola Chicago,78,11
+2018,4,2,West,9,54,Florida St,Michigan,58,3
+2018,4,3,East,1,71,Villanova,Texas Tech,59,3
+2018,4,4,Midwest,1,85,Kansas,Duke,81,2
+2018,5,1,Final Four,11,57,Loyola Chicago,Michigan,69,3
+2018,5,2,Final Four,1,95,Villanova,Kansas,79,1
+2018,6,1,Championship,3,62,Michigan,Villanova,79,1

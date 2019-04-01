@@ -1,0 +1,98 @@
+,Year,Round,Region Number,Region Name,SeedA,ScoreA,TeamA,TeamB,ScoreB,SeedB
+4,2002,1,1,South,4,89,USC,UNC Wilmington,93,13
+13,2002,1,2,West,5,80,Miami,Missouri,93,12
+21,2002,1,3,East,5,69,Marquette,Tulsa,71,12
+29,2002,1,4,Midwest,5,82,Florida,Creighton,83,12
+34,2002,2,1,South,2,58,Alabama,Kent St,71,10
+37,2002,2,2,West,1,101,Cincinnati,UCLA,105,8
+40,2002,2,2,West,4,67,Ohio St,Missouri,83,12
+43,2002,2,3,East,3,75,Georgia,Southern Illinois,77,11
+50,2002,3,1,South,3,73,Pittsburgh,Kent St,78,10
+68,2003,1,1,Midwest,4,71,Dayton,Tulsa,84,13
+93,2003,1,4,East,5,46,Mississippi St,Butler,47,12
+110,2003,2,4,East,2,62,Wake Forest,Auburn,68,10
+112,2003,2,4,East,4,71,Louisville,Butler,79,12
+133,2004,1,1,Midwest,5,58,Providence,Pacific,66,12
+141,2004,1,2,East,5,60,Florida,Manhattan,75,12
+161,2004,2,1,Midwest,1,75,Kentucky,UAB,76,9
+162,2004,2,1,Midwest,2,72,Gonzaga,Nevada,91,10
+173,2004,2,4,West,1,67,Stanford,Alabama,70,8
+197,2005,1,1,Midwest,5,73,Alabama,Wisconsin Milwaukee,83,12
+211,2005,1,3,East,3,63,Kansas,Bucknell,64,14
+220,2005,1,4,South,4,57,Syracuse,Vermont,60,13
+228,2005,2,1,Midwest,4,75,Boston College,Wisconsin Milwaukee,83,12
+234,2005,2,3,East,2,62,Connecticut,NC State,65,10
+259,2006,1,1,South,3,63,Iowa,Northwestern St,64,14
+261,2006,1,1,South,5,58,Syracuse,Texas A&M,66,12
+268,2006,1,2,West,4,73,Kansas,Bradley,77,13
+285,2006,1,4,Midwest,5,79,Nevada,Montana,87,12
+296,2006,2,2,West,5,66,Pittsburgh,Bradley,72,13
+299,2006,2,3,East,3,60,North Carolina,George Mason,65,11
+315,2006,4,3,East,1,84,Connecticut,George Mason,86,11
+396,2008,1,2,Midwest,4,62,Vanderbilt,Siena,83,13
+397,2008,1,2,Midwest,5,69,Clemson,Villanova,75,12
+412,2008,1,4,West,4,69,Connecticut,San Diego,70,13
+413,2008,1,4,West,5,99,Drake,Western Kentucky,101,12
+422,2008,2,2,Midwest,2,70,Georgetown,Davidson,74,10
+436,2008,3,2,Midwest,3,56,Wisconsin,Davidson,73,10
+452,2009,1,1,Midwest,4,69,Wake Forest,Cleveland St,84,13
+453,2009,1,1,Midwest,5,71,Utah,Arizona,84,12
+469,2009,1,3,East,5,59,Florida St,Wisconsin,61,12
+477,2009,1,4,South,5,72,Illinois,Western Kentucky,76,12
+515,2010,1,1,Midwest,3,83,Georgetown,Ohio,97,14
+524,2010,1,2,West,4,65,Vanderbilt,Murray St,66,13
+533,2010,1,3,East,5,65,Temple,Cornell,78,12
+545,2010,2,1,Midwest,1,67,Kansas,Northern Iowa,69,9
+555,2010,2,3,East,3,64,New Mexico,Washington,82,11
+556,2010,2,3,East,4,69,Wisconsin,Cornell,87,12
+558,2010,2,4,South,2,68,Villanova,St Marys,75,10
+599,2011,1,3,Southwest,4,61,Louisville,Morehead St,62,13
+600,2011,1,3,Southwest,5,66,Vanderbilt,Richmond,69,12
+614,2011,2,1,East,3,62,Syracuse,Marquette,66,11
+621,2011,2,3,Southwest,2,57,Notre Dame,Florida St,71,10
+622,2011,2,3,Southwest,3,76,Purdue,VCU,94,11
+624,2011,2,4,Southeast,1,70,Pittsburgh,Butler,71,8
+638,2011,4,3,Southwest,1,61,Kansas,VCU,71,11
+648,2012,1,1,South,2,70,Duke,Lehigh,75,15
+651,2012,1,1,South,5,59,Wichita St,VCU,62,12
+656,2012,1,2,West,2,84,Missouri,Norfolk St,86,15
+674,2012,1,4,Midwest,4,60,Michigan,Ohio,65,13
+675,2012,1,4,Midwest,5,44,Temple,South Florida,58,12
+693,2012,2,4,Midwest,3,63,Georgetown,NC State,88,11
+718,2013,1,1,Midwest,5,55,Oklahoma St,Oregon,68,12
+724,2013,1,2,West,3,62,New Mexico,Harvard,68,14
+725,2013,1,2,West,4,61,Kansas St,La Salle,63,13
+726,2013,1,2,West,5,46,Wisconsin,Ole Miss,57,12
+731,2013,1,3,South,2,68,Georgetown,Florida Gulf Coast,78,15
+742,2013,1,4,East,5,61,UNLV,California,64,12
+749,2013,2,1,Midwest,4,57,St Louis,Oregon,74,12
+750,2013,2,2,West,1,70,Gonzaga,Wichita St,76,9
+755,2013,2,3,South,7,71,San Diego St,Florida Gulf Coast,81,15
+771,2013,4,2,West,2,66,Ohio St,Wichita St,70,9
+785,2014,1,1,South,5,75,VCU,Stephen F Austin,77,12
+793,2014,1,2,East,5,57,Cincinnati,Harvard,61,12
+801,2014,1,3,West,5,75,Oklahoma,North Dakota St,80,12
+807,2014,1,4,Midwest,3,71,Duke,Mercer,78,14
+814,2014,2,1,South,2,57,Kansas,Stanford,60,10
+815,2014,2,1,South,3,53,Syracuse,Dayton,55,11
+825,2014,2,4,Midwest,1,76,Wichita St,Kentucky,78,8
+858,2015,1,2,West,3,56,Baylor,Georgia St,57,14
+874,2015,1,4,South,3,59,Iowa St,UAB,60,14
+888,2015,2,3,East,1,68,Villanova,NC State,71,8
+918,2016,1,1,South,4,66,California,Hawaii,77,13
+927,2016,1,2,West,5,75,Baylor,Yale,79,12
+933,2016,1,3,East,3,56,West Virginia,Stephen F Austin,70,14
+940,2016,1,4,Midwest,2,81,Michigan St,Middle Tennessee St,90,15
+943,2016,1,4,Midwest,5,83,Purdue,Arkansas Little Rock,85,12
+961,2016,2,4,Midwest,3,59,Utah,Gonzaga,82,11
+974,2016,4,4,Midwest,1,62,Virginia,Syracuse,68,10
+1010,2017,1,4,South,5,72,Minnesota,Middle Tennessee St,81,12
+1014,2017,2,1,East,1,62,Villanova,Wisconsin,65,8
+1020,2017,2,2,West,3,66,Florida St,Xavier,91,11
+1033,2017,3,2,West,2,71,Arizona,Xavier,73,11
+1049,2018,1,1,South,1,54,Virginia,UMBC,74,16
+1052,2018,1,1,South,4,68,Arizona,Buffalo,89,13
+1068,2018,1,3,East,4,75,Wichita St,Marshall,81,13
+1083,2018,2,1,South,3,62,Tennessee,Loyola Chicago,63,11
+1085,2018,2,2,West,1,70,Xavier,Florida St,75,9
+1095,2018,2,4,Midwest,3,53,Michigan St,Syracuse,55,11
