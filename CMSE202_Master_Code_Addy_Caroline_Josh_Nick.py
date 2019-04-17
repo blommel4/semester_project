@@ -8,7 +8,7 @@ xgboost, pandas, numpy, matplotlib, graphviz, sklearn
 import xgboost as xgb
 import pandas as pd
 import matplotlib.pyplot as plt
-%matplotlib inline
+# %matplotlib inline # only for notebooks!!!
 import graphviz
 import numpy as np
 from sklearn import preprocessing
@@ -138,24 +138,171 @@ since xgboost does not need the data to be normalized)
 
 
 #Time to normalize the data
-train_data1 = sklearn.preprocessing.normalize( training_data, norm='max', copy=True )
-test_data1 = sklearn.preprocessing.normalize( testing_data, norm='max', copy=True )
+training_data = preprocessing.normalize(training_data, axis=0, norm='max')
+testing_data = preprocessing.normalize(testing_data, axis=0, norm='max')
 
-training_matrix = xgb.DMatrix( train_data1, label=training_labels, feature_names=stats_vec )
-test_matrix = xgb.DMatrix( test_data1, label=testing_labels, feature_names=stats_vec )
-# training_matrix = xgb.DMatrix( training_data, label=training_labels, feature_names=stats_vec )
-# test_matrix = xgb.DMatrix( testing_data, label=testing_labels, feature_names=stats_vec )
-
-evallist = [(test_matrix, 'eval'), (training_matrix, 'train')]
+evallist = [(testing_data, 'eval'), (training_data, 'train')]
 
 param = {'objective': 'multi:softprob'}
 param['eval_metric'] = "merror"
 param['num_class'] = 2
 
+dtrain = xgb.DMatrix(training_data, label=training_labels,
+                     feature_names=stats_vec)
+dtest = xgb.DMatrix(testing_data, label=testing_labels,
+                    feature_names=stats_vec)
 
 
+'''
+The next three parts (labeled 'Phases') are for tuning the model
+for creating the best possible paramters for the final model.
+'''
+
+#Phase 1: Tuning Max depth and min_child_weight
+param = {'objective': 'multi:softprob'}
+param['eval_metric'] = "merror"
+param['num_class'] = 2  # 2 classes - win or loss
+
+#evallist = [(dtest, 'eval'), (dtrain, 'train')]
+
+num_round = 999 #looks like it levels off at around 200
+
+gridsearch_params = [
+    (max_depth, min_child_weight)
+    for max_depth in range(1,8)
+    for min_child_weight in range(1,6)
+]
+min_merror = float("Inf")
+best_params = None
+for max_depth, min_child_weight in gridsearch_params:
+    # print("CV with max_depth={}, min_child_weight={}".format(
+    #                         max_depth,
+    #                         min_child_weight))
+    
+    # Update Parameters
+    param['max_depth'] = max_depth
+    param['min_child_weight'] = min_child_weight
+    
+    #Run CV
+    cv_results = xgb.cv(param,
+                        dtrain,
+                        num_boost_round=num_round, #maybe wrong
+                        seed=42,
+                        nfold=3,
+                        metrics={'merror'},
+                        early_stopping_rounds=10)
+    
+    #Update best MError
+    mean_merror = cv_results['test-merror-mean'].min()
+    boost_rounds = cv_results['test-merror-mean'].idxmin()
+    # boost_rounds = cv_results['test-merror-mean'].argmin()
+    # print("\tMerror {} for {} rounds".format(mean_merror, boost_rounds))
+    if mean_merror < min_merror:
+        min_merror = mean_merror
+        best_params = (max_depth, min_child_weight)
+    
+
+param['max_depth'] = best_params[0]
+param['min_child_weight'] = best_params[1]
+
+#Phase 2: Subsample and Colsample_bytree
+#tune subsample,colsample
+gridsearch_params = [
+    (subsample, colsample)
+    for subsample in [i/10. for i in range(1,11)]
+    for colsample in [i/10. for i in range(1,11)]
+]
+min_merror = float("Inf")
+best_params = None
+for subsample, colsample in reversed(gridsearch_params):
+    # print("CV with subsample={}, colsample={}".format(
+    #                         subsample,
+    #                         colsample))
+    # Update our parameters
+    param['subsample'] = subsample
+    param['colsample_bytree'] = colsample
+    # Run CV
+    cv_results = xgb.cv(
+        param,
+        dtrain,
+        num_boost_round=num_round,
+        seed=42,
+        nfold=3,
+        metrics={'merror'},
+        early_stopping_rounds=10
+    )
+    # Update best Merror
+    mean_merror = cv_results['test-merror-mean'].min()
+    boost_rounds = cv_results['test-merror-mean'].idxmin()
+    # boost_rounds = cv_results['test-merror-mean'].argmin()
+    # print("\tMerror {} for {} rounds".format(mean_merror, boost_rounds))
+    if mean_merror < min_merror:
+        min_merror = mean_merror
+        best_params = (subsample,colsample)
+        
+        
+param['subsample'] = best_params[0]
+param['colsample_bytree'] = best_params[1]
+
+#Phase 3: eta
+min_merror = float("Inf")
+best_params = None
+for eta in [0.5,0.3, 0.03, .003,0.0003]:
+    # print("CV with eta={}".format(eta))
+    # Update our parameters
+    param['eta'] = eta
+    # Run CV
+    cv_results = xgb.cv(
+        param,
+        dtrain,
+        num_boost_round=num_round,
+        seed=42,
+        nfold=3,
+        metrics={'merror'},
+        early_stopping_rounds=10
+    )
+    # Update best Merror
+    mean_merror = cv_results['test-merror-mean'].min()
+    boost_rounds = cv_results['test-merror-mean'].idxmin()
+    # boost_rounds = cv_results['test-merror-mean'].argmin()
+    # print("\tMerror {} for {} rounds".format(mean_merror, boost_rounds))
+    if mean_merror < min_merror:
+        min_merror = mean_merror
+        best_params = eta
+        
+param['eta'] = best_params
 
 
+'''
+This section is for the final model for predicting results. Here we test the
+model (trained against the data between 2006-2015) with the known results of
+the 2016-2018 seasons. The plot showing the best parameters is commented out
+for your convience, as well as the results of the correct values.
+'''
+
+final_gb = xgb.train(param,dtrain,num_boost_round=num_round,
+                   early_stopping_rounds=5,evals=[(dtest, "Test")])
+
+# xgb.plot_importance(final_gb)
+
+ypred = final_gb.predict(dtest)
+ypred
+
+correct_list = np.zeros_like(testing_labels)
+for i in range(len(ypred)):
+    if ypred[i][0] < ypred[i][1]:
+        metric = 1 # team A predicted to win
+    else:
+        metric = 0
+    correct_list[i][0] = metric
+    # print("TeamA Win% {:.4}  SeedDiff {}".format(ypred[i][1]*100,testing_data[i][4]*-1))
+
+print("% Correct: ", (correct_list.sum() / len(correct_list))*100)
+
+xgb.plot_tree(final_gb)
+fig = plt.gcf()
+fig.set_size_inches(18,25)
+plt.show()
 
 
 
