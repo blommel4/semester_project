@@ -299,10 +299,10 @@ for i in range(len(ypred)):
 
 print("% Correct: ", (correct_list.sum() / len(correct_list))*100)
 
-xgb.plot_tree(final_gb)
-fig = plt.gcf()
-fig.set_size_inches(18,25)
-plt.show()
+# xgb.plot_tree(final_gb)
+# fig = plt.gcf()
+# fig.set_size_inches(18,25)
+# plt.show()
 
 
 
