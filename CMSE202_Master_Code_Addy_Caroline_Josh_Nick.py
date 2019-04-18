@@ -304,6 +304,7 @@ print("% Correct: ", (correct_list.sum() / len(correct_list))*100)
 # fig.set_size_inches(18,25)
 # plt.show()
 
+xgb.to_graphviz(bst, num_trees=0, rankdir='LR')
 
 
 
